@@ -1,0 +1,213 @@
+
+
+/* body =====================================================================================================*/
+.back {
+	background-color:#1B2E5B;
+	
+}
+
+
+
+/* login text ================================================================================================*/
+.log {
+	position: absolute;
+	right: 46%;
+	color: #FFFFFF;
+	top: 15%;
+	font-size:45px;
+	font-family:consolas;
+
+	
+}
+/*  fist user name =============================================================================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+	
+}
+
+main {
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+	background:none;
+}
+
+
+
+
+
+
+
+/* text border  name */
+
+.input-group {
+    position: relative;
+	width:120%;
+	background:none;
+	
+}
+
+ .input-group .input-area {
+    outline: none;
+    border: 2px solid #dadce0;
+    padding: 16px 13px;
+    font-size: 18px;
+    border-radius: 5px;
+	width:120%;
+	background:none;
+}
+
+  .input-group .input-area:valid + .label {
+    top: -8px;
+    padding: 0 3px;
+    font-size: 14px;
+    color: #FFFFFF;
+	background-color:#1B2E5B;
+}
+
+     .input-group .input-area:focus {
+    border: 2px solid royalblue;
+	
+}
+
+
+
+ .input-group .label {
+    color: #8d8d8d;
+    position: absolute;
+    top: 20px;
+    left: 40%;
+    
+	background:none;
+}
+
+.input-area{
+	left:20%;
+}
+
+
+/*  second password ========================================================================================= */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+	
+}
+
+
+
+/* text border  name */
+
+.input-group1 {
+    position: relative;
+	width:120%;
+}
+
+ .input-group1 .input-area1 {
+    outline: none;
+    border: 2px solid #dadce0;
+    padding: 16px 13px;
+    font-size: 18px;
+    border-radius: 5px;
+	width:120%;
+	background:none;
+}
+
+  .input-group1 .input-area1:valid + .label1 {
+    top: -8px;
+    padding: 0 3px;
+    font-size: 14px;
+    color: #FFFFFF;
+	background-color:#1B2E5B;
+}
+
+     .input-group1 .input-area1:focus {
+    border: 2px solid royalblue;
+}
+
+
+
+ .input-group1 .label1 {
+    color: #8d8d8d;
+    position: absolute;
+    top: 20px;
+    left: 45%;
+    background: #ffffff;
+}
+
+.input-area1{
+	left:20%;
+}
+
+
+
+
+
+main.pass{
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
+
+
+/* remember me ================================================================================================> */
+
+.remember {
+	position: absolute;
+	top: 50%;
+	left: 37%;
+	color: #FFFFFF;
+	
+}
+
+.check{
+	
+	border:20px;
+	
+	
+}
+
+
+/* forgot password ===============================================================================================  */
+
+.forgot{
+	position: absolute;
+	top: 50%;
+	left: 52%;
+	background:none;
+	color: #FFFFFF;
+}
+
+/* login ========================================================================================================== */
+
+.login {
+	position: absolute;
+	top: 60%;
+	left: 43%;
+	transform:translate;
+	background-color:#FFFFFF;
+	width:155px;
+	height:42px;
+	font:30px consolas;
+	
+	text-align:center;
+	
+	color:#1B2E5B;
+}
+/* new register user =======================================================================================================*/
+
+.newregister{
+	
+	color:#FFFFFF;
+	position: absolute;
+	top: 67%;
+	left: 44.5%;
+	
+}
